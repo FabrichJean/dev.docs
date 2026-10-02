@@ -395,7 +395,7 @@ npm install nodemailer
 
 send.js
 
-```
+```js
 const nodemailer = require("nodemailer");
 
 const transporter = nodemailer.createTransport({
